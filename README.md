@@ -27,6 +27,12 @@ Questions about Microsoft Office 365 development in general should be posted to 
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
+## Content of this Add In
+Dropdown lists of Islamic Phrases in Arabic version
+* User choose the character in the dropdown lists
+* It will automatically write a word (Islamic Phrases) in the worksheet document
+* Try to select another option, it will add a new line in the worksheet document
+
 ## Copyright
 
 Copyright (c) 2019 Microsoft Corporation. All rights reserved.
