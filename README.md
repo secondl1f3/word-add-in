@@ -33,6 +33,10 @@ Dropdown lists of Islamic Phrases in Arabic version
 * It will automatically write a word (Islamic Phrases) in the worksheet document
 * Try to select another option, it will add a new line in the worksheet document
 
+![alt text](https://github.com/secondl1f3/word-add-in/blob/main/Screen%20Shot%202020-10-29%20at%2023.00.15.png?raw=true)
+![alt text](https://github.com/secondl1f3/word-add-in/blob/main/Screen%20Shot%202020-10-29%20at%2023.01.07.png?raw=true)
+
+
 ## Copyright
 
 Copyright (c) 2019 Microsoft Corporation. All rights reserved.
